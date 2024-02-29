@@ -370,12 +370,6 @@
         "com.unity.render-pipelines.core": "14.0.8"
       }
     },
-    "lethalcompany": {
-      "version": "file:Lethal Company",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {}
-    },
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,

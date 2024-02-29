@@ -10,10 +10,10 @@
     "allowUnsafeCode": false,
     "overrideReferences": true,
     "precompiledReferences": [
-        "BepInEx-stripped.dll",
-        "Assembly-CSharp.dll",
         "Newtonsoft.Json.dll",
-        "0Harmony-stripped.dll"
+        "Assembly-CSharp.dll",
+        "BepInEx.dll",
+        "0Harmony.dll"
     ],
     "autoReferenced": true,
     "defineConstraints": [],
